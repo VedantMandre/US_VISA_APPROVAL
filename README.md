@@ -30,6 +30,20 @@ pip install -r requirements.txt
 ```
 
 ```bash
+# Navigate to the directory in codespaces
+cd /workspaces/codespaces-blank
+
+# List contents
+ls
+
+# Navigate to the project in codespaces
+cd US-Visa-Approval-Prediction
+ls
+# Install requirements
+pip install -r requirements.txt
+```
+
+```bash
 python app.py
 ```
 

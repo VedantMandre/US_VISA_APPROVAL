@@ -1,4 +1,4 @@
-import os
+import os     #we use os to get the current working directory
 from pathlib import Path
 
 project_name = "us_visa"
